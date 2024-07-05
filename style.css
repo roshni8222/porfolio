@@ -1,0 +1,34 @@
+*{
+    margine:0;
+    padding:0;
+}
+
+
+.sidebar{
+
+    background-color: aqua;
+    width: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+.sidebar{
+    padding: 45px;
+}
+.sidebar{
+    list-style-type: none;
+    font-size: 30px;
+    padding: 100px;
+
+}
+.main{
+    background-color: cadetblue;
+    width:90vw;
+}
+.container{
+    display: flex;
+}
+.infocontainer{
+    background-color: darkolivegreen;
+    height:100vh;
+    width:80vw;
+}
